@@ -1,4 +1,5 @@
 ﻿using IdentityServer4.Models;
+using IdentityServer4.Test;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -40,8 +41,5 @@ namespace QuickstartIdentityServer
                 }
             };
         }
-
-        
-
     }
 }
